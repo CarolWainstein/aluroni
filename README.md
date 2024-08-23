@@ -1,46 +1,49 @@
-# Getting Started with Create React App
+![Restaurant Logo](thumbnail.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Aluroni
 
-## Available Scripts
+Aluroni is a React-based website showcasing a pasta restaurant. It provides an interactive menu, details about various pasta dishes, and additional information about the restaurant. This project demonstrates the integration of modern web technologies and best practices.
 
-In the project directory, you can run:
+<img src="screencapture.png" alt="Pasta Haven Screenshot" width="50%">
 
-### `npm start`
+## 🔨 Project Features
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+- **Menu Display**: View a detailed menu of pasta dishes.
+- **Dish Details**: Access information about each dish.
+- **About Page**: Learn more about Pasta Haven and its story.
+- **Responsive Design**: The site is fully responsive and optimized for various devices.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## ✔️ Technologies and Tools Used
 
-### `npm test`
+This project utilizes the following technologies:
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- `React` for building the user interface.
+- `TypeScript` for static type checking.
+- `SCSS` for styling the components.
+- `React Router DOM` for handling routing within the app.
 
-### `npm run build`
+## 🛠️ Getting Started
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+To get the project up and running locally, follow these steps:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+1. **Clone the Repository**:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+   ```bash
+   git clone https://github.com/your-username/pasta-haven.git
+   ```
+2. Navigate to the Project Directory:
 
-### `npm run eject`
+```bash
+cd pasta-haven
+```
+3. Install Dependencies:
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+```bash
+npm install
+```
+4. Start the Development Server:
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+```bash
+npm start
+```
+This will start the development server and open the application in your default web browser. You can view the app at http://localhost:3000.
