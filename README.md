@@ -1,10 +1,6 @@
-![Restaurant Logo](thumbnail.png)
-
 # Aluroni
 
 Aluroni is a React-based website showcasing a pasta restaurant. It provides an interactive menu, details about various pasta dishes, and additional information about the restaurant. This project demonstrates the integration of modern web technologies and best practices.
-
-<img src="screencapture.png" alt="Pasta Haven Screenshot" width="50%">
 
 ## 🔨 Project Features
 
